@@ -89,7 +89,7 @@ export default function Party({ name }) {
       {!blown ? (
         <>
           <p className="hint">
-            (Click the button and blow into your mic 🎤)
+            (Click the button below and blow into your mic 🎤)
           </p>
 
           <button onClick={() => setListening(true)}>
@@ -123,8 +123,8 @@ export default function Party({ name }) {
           <div className="popup-content">
             <h2>💖 A Message For You 💖</h2>
             <p>
-              You make life brighter, funnier, and so much more special 💖 <br />
-              Hope this year brings you everything you dream of ✨ <br />
+              Heyy Happy Birthdayy!!!!!!!! <br />
+              All the best for everything you do  <br />
               Happy 22nd Birthday!!
             </p>
 
